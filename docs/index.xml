@@ -17,6 +17,15 @@
     </item>
     
     <item>
+      <title>Encargo n°1 Mobiliario</title>
+      <link>https://ferolavarria.github.io/docs/mobiliario/</link>
+      <pubDate>Wed, 10 Mar 2021 19:30:08 +1000</pubDate>
+      
+      <guid>https://ferolavarria.github.io/docs/mobiliario/</guid>
+      <description>Ejemplos de uso de lenguaje Markdown para redactar las publicaciones.</description>
+    </item>
+    
+    <item>
       <title>Ejemplo Shortcodes</title>
       <link>https://ferolavarria.github.io/docs/ejemplo/</link>
       <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
